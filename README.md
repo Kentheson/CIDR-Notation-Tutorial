@@ -27,30 +27,23 @@ This is an in depth Tutorial explaining CIDR Notation.
 <p align="center">
  <br/>
 <img src="https://i.imgur.com/QwkIjFL.jpg" height="80%" width="80%"/>
+ <p><b> CIDR notation or Classless Inter-Domain Routing is an alternate method of representing a subnet mask. It is a count of the number of network bits that are set to in the subnet mask. Every IPV4 address has a 32 bit bianry value that are broken down into 8 bit chunk octets. In simpler terms, CIDR notation is a way to write IP address ranges using a shorthand notation, so that we can write a whole range of IP addresses with a single notation.</b> </p> 
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<p align="center">
+<img src="https://i.imgur.com/M0wisXg.jpg" height="80%" width="80%"/>
+  <p><b> Every bit has a corresponding bit weight. A "1" in the corresponding bit "box", activates the bit weight. </b></p>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<p align="center">
+<img src="https://i.imgur.com/vgEdwul.jpg" height="80%" width="80%"/>
+ <p><b> Be sure to add the activated bit weights toghether. The sum of the bit weight is the IP address . </b></p>
+ 
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 
 <!--
