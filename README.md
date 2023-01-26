@@ -4,7 +4,7 @@ CIDR Notation Tutorial</h1>
  ### [CIDR Notation YouTube Demonstration](https://youtu.be/BSHLd8JC-TA)
 
 <h2>Description</h2>
-This is an in depth Tutorial explaining CIDR Notation.
+This is an in depth Tutorial explaining CIDR Notation. There is also a link to my Youtube channel above, explaining CIDR Notation.
 <br />
 
 <h2>Definition</h2>
