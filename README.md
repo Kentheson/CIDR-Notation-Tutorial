@@ -13,20 +13,20 @@ This is an in depth Tutorial explaining CIDR Notation.
 <p> CIDR notation compactly indicates the network mask for an address and adds on the total number of bits in the entire address using slash notation. </p>
 
 
-<h2>Programs or Utilities Used</h2>
+<h2 align="center">Programs or Utilities Used</h2>
 
-- <b>Miro Whiteboard</b> 
+<p align="center">- <b>Miro Whiteboard</b> </p>
 
 
-<h2>Environments Used </h2>
+<h2 align="center">Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+<p align="center">- <b align="center">Windows 10</b> </p>
 
-<h2>Program walk-through:</h2>
+<h2 align="center">Tutorial</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br/>
+<img src="https://i.imgur.com/QwkIjFL.jpg" height="80%" width="80%"/>
 <br />
 <br />
 Select the disk:  <br/>
