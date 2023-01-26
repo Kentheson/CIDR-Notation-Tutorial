@@ -39,10 +39,15 @@ This is an in depth Tutorial explaining CIDR Notation.
 <br/>
 <p align="center">
 <img src="https://i.imgur.com/vgEdwul.jpg" height="80%" width="80%"/>
- <p><b> Be sure to add the activated bit weights toghether. The sum of the bit weight is the IP address . </b></p>
+ <p><b> Be sure to add the activated bit weights toghether because the sum of the bit weight is the IP address . </b></p>
  
 <br />
 <br />
+
+<p align="center">
+<img src="https://i.imgur.com/ZXhLNou.jpg" height="80%" width="80%"/>
+ <p><b> In this example, the subnet mask(255) is pointing(purple line) to the first two octects. There are 8 bits in every octect, and because the subnet mask
+  255 is only activated in the first two octects, in this example, the slash notation in "/16". 255 represent which portion of the IP address is the network's address and the rest of the IP address belongs to the host.</b></p>
 
 </p>
 
