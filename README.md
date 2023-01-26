@@ -47,7 +47,7 @@ This is an in depth Tutorial explaining CIDR Notation.
 <p align="center">
 <img src="https://i.imgur.com/ZXhLNou.jpg" height="80%" width="80%"/>
  <p><b> In this example, the subnet mask(255) is pointing(purple line) to the first two octects. There are 8 bits in every octect, and because the subnet mask
-  255 is only activated in the first two octects, in this example, the slash notation in "/16". 255 represent which portion of the IP address is the network's address and the rest of the IP address belongs to the host.</b></p>
+  255 is only activated in the first two octects, in this example, the slash notation is "/16". 255 represent which portion of the IP address is the network's address and the rest of the IP address belongs to the host.</b></p>
 
 </p>
 
